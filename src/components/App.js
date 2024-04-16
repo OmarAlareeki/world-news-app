@@ -1,8 +1,10 @@
-
+import Container from "@mui/material/Container";
 function App() {
   return (
   <div>
-  Hello
+  <Container>
+    <h1>News</h1>
+    </Container>
   </div>
   );
 }
